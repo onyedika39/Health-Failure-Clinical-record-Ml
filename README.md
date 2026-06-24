@@ -41,7 +41,7 @@ Open Heart Failure.ipynb in Jupyter Notebook and run the analysis with the clini
 
 ## Professional Notes
 
-This project is for educational analytics only and should not be used as medical advice.
+This project demonstrates healthcare data analysis, feature exploration, classification modeling, and clear communication of model results.
 
 ## Author
 
